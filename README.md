@@ -2,11 +2,17 @@
 This is an IoT-based surveillance robot. It runs on a Raspberry Pi 3B, leverages the flask framework for generating control signals for the bot. Hardware used:
 
 1.Raspberry Pi 3B
+
 2.Picamera 5MP
+
 3.2WD robot chassis with 4AA battery box and Bo motors
+
 4.L239D Motor driver module
+
 5.Power bank
+
 6.Procedure:
+
 
 Enable SSH, Camera, VNC on your Pi
 Install motion library, set motion daemon to yes and set permission for the target directory.
